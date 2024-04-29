@@ -1,0 +1,54 @@
+body {
+    background-color: #000;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    background-color: #dbdbdb;
+    width: 480px;
+    height: 470px;
+    border-radius: 10px;
+  }
+  .xo{
+    color:aqua;
+    font-size: 25px; 
+    padding: 10px; 
+  }
+  .container div {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    width: 130px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: rgb(150, 16, 117);
+  }
+  .container .one{
+    font-size: 30px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+   
+    height: 50px;
+    background-color: rgb(144, 21, 113);
+  }
+  .container .two{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    font-size: 50px;
+    font-weight: bold; 
+  
+   color:#dbdbdb;
+  
+  }
+  
+  
+  
